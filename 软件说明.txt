@@ -1,0 +1,18 @@
+在成员列表中，顺序如下：
+序号    姓名        性别          职务         学院          专业班级     手机
+.Text  .SubItems(1) .SubItems(2)  .SubItems(3) .SubItems(4)  .SubItems(5) .SubItems(6)
+
+
+
+
+
+
+
+
+再详细信息中，有：
+姓名     性别  职务  学院    专业班级  手机     QQ     MSN    e-mail   部门 
+names()  sex() job() major()  class()  cellp()  qq()   msn()  email()  depart()
+
+
+新浪UC    爱好
+sinauc()  hobie()

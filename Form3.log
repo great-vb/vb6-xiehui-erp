@@ -1,0 +1,6 @@
+行 3: 不能创建引用: '{F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.2#0'。
+行 31: 控件 dio1 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 34: 属性名 _ExtentX 在 dio1 中是无效的。
+行 35: 属性名 _ExtentY 在 dio1 中是无效的。
+行 36: 属性名 _Version 在 dio1 中是无效的。
+行 71: 不能加载控件 ListView1; 许可证未找到。
